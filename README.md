@@ -8,6 +8,9 @@ Ok, so various "internal" (really external) services we use at work have blocked
 As ICMP is really ([mostly](https://github.com/jakkarth/icmptx)) harmless and there's far more effective ways to raise security concerns that don't harm a system admin's ability to do his job, this is rather infuriating.
 However, the situation being what is is, if I can't use ICMP, I will interrogate whatever ports I know exist.
 ** **
+**BUT YOU'RE NOT ACTUALLY PINGING ANYTHING**
+I know.
+** **
 **WHY NOT USE NMAP?**
 
 Because I don't want to, that's why.
