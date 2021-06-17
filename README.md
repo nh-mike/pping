@@ -9,6 +9,7 @@ As ICMP is really ([mostly](https://github.com/jakkarth/icmptx)) harmless and th
 However, the situation being what is is, if I can't use ICMP, I will interrogate whatever ports I know exist.
 ** **
 **BUT YOU'RE NOT ACTUALLY PINGING ANYTHING**
+
 I know.
 ** **
 **WHY NOT USE NMAP?**
